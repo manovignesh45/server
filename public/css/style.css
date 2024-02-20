@@ -1,0 +1,7 @@
+body {
+  display: grid;
+  font-size: 20px;
+  background-color: black;
+  color: white;
+  place-content: center;
+}

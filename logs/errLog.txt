@@ -1,0 +1,47 @@
+07/02/2024	21:32:54	384b24ed-d24d-4d3f-9c37-8bdc060545ad	Error: Not allowed by CORS
+07/02/2024	21:32:54	ac45e106-454e-4fab-8d0a-bcb7c8555933	Error: Not allowed by CORS
+07/02/2024	21:46:16	fd4ea1cf-e920-425b-8fea-29e0da767985	TypeError: req.accepted is not a function
+07/02/2024	21:46:57	f7e3e381-fe46-47c4-9b75-ab6cb5174253	TypeError: req.accepted is not a function
+07/02/2024	21:47:06	dfa8047e-9589-4942-ba60-018b18e91198	TypeError: req.accepted is not a function
+07/02/2024	21:47:45	95d43394-3bfb-48c7-9f9d-69cb06100a05	TypeError: req.accepted is not a function
+08/02/2024	15:16:55	1dc8e214-a15f-4f1b-a530-3e3d8f8e870a	Error: Not allowed by CORS
+08/02/2024	16:47:04	fb3f8393-228e-4bce-970a-739fcbff45ae	ReferenceError: s is not defined
+08/02/2024	16:51:38	0b0c2219-63e8-4abc-9c1d-69419953300d	ReferenceError: s is not defined
+08/02/2024	16:51:41	319c10d6-022a-4679-8dba-d6a55778a527	ReferenceError: s is not defined
+08/02/2024	16:53:13	d1703b9b-f0d8-498a-b95e-61676e24f9a6	ReferenceError: s is not defined
+08/02/2024	18:32:21	9a275678-1239-45bc-8a24-e08dd6d3a028	ReferenceError: name is not defined
+08/02/2024	18:35:21	163931ef-c641-49eb-974e-6306e0c1bf05	SyntaxError: Expected double-quoted property name in JSON at position 10
+12/02/2024	11:40:03	9f500a73-921a-4337-89ae-6c4f42647c2d	SyntaxError: Unexpected token '"', "#" is not valid JSON
+13/02/2024	13:31:26	a70b830e-60e5-4c94-933b-012cbf88ab13	TypeError: Cannot read properties of undefined (reading 'id')
+13/02/2024	13:31:31	00a9526e-34bd-4fd8-99c1-4f99c21aa4ef	TypeError: Cannot read properties of undefined (reading 'id')
+15/02/2024	11:36:09	24d9a9cc-133c-4752-9917-aa27c884563c	SyntaxError: Expected ',' or '}' after property value in JSON at position 26
+15/02/2024	11:37:54	57ec44c8-6f2f-46a9-9399-ea0ca67034b9	SyntaxError: Expected ',' or '}' after property value in JSON at position 22
+17/02/2024	11:06:26	7c5f217e-f6f7-4c52-83d7-eb7b623fc114	ReferenceError: path is not defined
+17/02/2024	11:10:13	1bf75db5-acba-4ecd-a9c6-bfe1cb8a2b75	SyntaxError: Expected ',' or '}' after property value in JSON at position 13
+17/02/2024	11:12:01	357a5829-bdf0-4b58-8796-0b620098f0d9	TypeError: Cannot read properties of undefined (reading 'id')
+17/02/2024	11:12:11	5294b5d2-51d9-497a-a8f4-aaa49766f068	TypeError: Cannot read properties of undefined (reading 'id')
+17/02/2024	11:18:43	9d8107b7-1b7f-4bf9-a5e1-a67ae891e8b2	TypeError: Cannot read properties of undefined (reading 'id')
+17/02/2024	11:18:49	e369a45f-7678-4fae-9b81-359dc3424bbf	TypeError: Cannot read properties of undefined (reading 'id')
+17/02/2024	11:21:14	2017922f-cc5e-41a8-9f70-ccf25bbc6957	TypeError: Cannot read properties of undefined (reading 'id')
+17/02/2024	11:21:21	eb2ada4f-4d3f-4173-a5f3-7c7da124f50e	TypeError: Cannot read properties of undefined (reading 'id')
+17/02/2024	11:21:29	e254a7f7-3add-4023-9da2-d6fcdbdeedb8	TypeError: Cannot read properties of undefined (reading 'id')
+17/02/2024	11:21:37	b79bdc80-eefd-4f52-a4e9-9274ef2ef655	TypeError: Cannot read properties of undefined (reading 'id')
+17/02/2024	11:41:04	0b491cf8-d9dc-4116-a7f4-1f9fc5d485fc	TypeError: Cannot read properties of undefined (reading 'id')
+17/02/2024	11:43:11	60ef1369-a8d8-4719-9016-c96a87fd0678	TypeError: Cannot read properties of undefined (reading 'id')
+17/02/2024	11:44:04	5d9a553c-2dc5-447e-9ff5-d4080f2f1620	TypeError: Cannot read properties of undefined (reading 'id')
+17/02/2024	11:45:58	222d6d10-e3cc-47ca-923b-bc760576ea5e	TypeError: Cannot read properties of undefined (reading 'id')
+19/02/2024	18:30:27	414f0bfa-e41c-492e-9e93-a739900bb10b	SyntaxError: Unexpected token 'e', "#" is not valid JSON
+20/02/2024	11:51:09	b3183f59-1b07-4d57-b0c5-ca3bbb0a51c5	TypeError: Cannot read properties of undefined (reading 'id')
+20/02/2024	11:52:41	d7b689b3-235b-47da-8246-5cceb52a5168	SyntaxError: Unexpected token 's', ..."astname": s
+}" is not valid JSON
+20/02/2024	11:52:53	22cd8aef-0b3f-46a3-87a3-1956a6e58108	TypeError: Cannot read properties of undefined (reading 'id')
+20/02/2024	11:53:37	82bf59a8-6d54-4228-87b3-f5495893990a	SyntaxError: Expected ',' or '}' after property value in JSON at position 14
+20/02/2024	11:53:53	bf8398a6-832d-4f13-a986-77ddcf5eca9b	SyntaxError: Expected ',' or '}' after property value in JSON at position 16
+20/02/2024	11:53:54	a2d7777a-5ead-4015-83fd-ef1ad554ae79	SyntaxError: Expected ',' or '}' after property value in JSON at position 16
+20/02/2024	11:54:44	2832a8db-3a71-44fb-91c2-aae81f173a24	TypeError: Cannot read properties of undefined (reading 'id')
+20/02/2024	11:54:53	e41edc32-c18c-4814-8233-d81b3415cbdf	TypeError: Cannot read properties of undefined (reading 'id')
+20/02/2024	11:56:41	ca83c79a-4324-4315-a87e-9a3dcf3a885c	TypeError: Cannot read properties of undefined (reading 'id')
+20/02/2024	11:56:57	9694f4e0-ddbb-4779-832f-1ef6400fa0db	TypeError: Cannot read properties of undefined (reading 'id')
+20/02/2024	11:58:46	32a6a6bf-db0e-4ce2-9ccf-a264c78f8c84	TypeError: Cannot read properties of undefined (reading 'id')
+20/02/2024	11:59:00	4ddffd62-6aff-4299-8fa9-371301e0a4ae	TypeError: Cannot read properties of undefined (reading 'id')
+20/02/2024	12:10:31	54fb7ab6-5b6b-4056-8b00-d20cc9c5e1e7	SyntaxError: Expected ',' or '}' after property value in JSON at position 14
